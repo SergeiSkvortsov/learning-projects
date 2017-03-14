@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/audio/applause.wav</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/audio/explosion.wav</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/audio/loser.wav</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingeight.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingfive.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingfour.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingnine.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingone.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingseven.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingsix.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingthree.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/blinkingtwo.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/board.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/eight.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/five.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/four.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/nine.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/one.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/openingscreen.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/seven.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/six.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/three.png</File>
+    <File>D:/Coursera On Demand MOOC/Optional Project/materials/Windows/OptionalProjectContent/graphics/two.png</File>
+  </SourceFiles>
+</SourceFileCollection>
